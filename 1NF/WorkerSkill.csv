@@ -1,0 +1,31 @@
+RawRecordID,SkillOrdinal,Skill
+RR001,1,Carpentry
+RR001,2,Framing
+RR002,1,Electrical
+RR002,2,Wiring
+RR003,1,Project Management
+RR003,2,Planning
+RR004,1,Carpentry
+RR004,2,Concrete
+RR005,1,Welding
+RR005,2,Steel Fixing
+RR006,1,Electrical
+RR006,2,Inspection
+RR007,1,Welding
+RR007,2,Carpentry
+RR008,1,Concrete
+RR008,2,Framing
+RR009,1,Accounting
+RR009,2,Procurement
+RR010,1,Planning
+RR010,2,Management
+RR011,1,Wiring
+RR011,2,Inspection
+RR012,1,Welding
+RR012,2,Concrete
+RR013,1,Framing
+RR013,2,Carpentry
+RR014,1,Procurement
+RR014,2,Accounting
+RR015,1,Management
+RR015,2,Planning

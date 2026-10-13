@@ -1,0 +1,26 @@
+RawRecordID,MaterialOrdinal,MaterialSupplied,MaterialUnitCost
+RR001,1,Concrete,120
+RR001,2,Steel,300
+RR002,1,Concrete,120
+RR002,2,Steel,300
+RR003,1,Steel Beams,500
+RR004,1,Rebar,200
+RR004,2,Concrete,110
+RR005,1,Rebar,200
+RR005,2,Concrete,110
+RR006,1,Bricks,2
+RR006,2,Cement,15
+RR007,1,Bricks,2
+RR007,2,Cement,15
+RR008,1,Steel Beams,500
+RR008,2,Glass Panels,250
+RR009,1,Glass Panels,250
+RR010,1,Concrete,130
+RR010,2,Tiles,20
+RR011,1,Concrete,130
+RR011,2,Tiles,20
+RR012,1,Concrete,115
+RR013,1,Concrete,115
+RR014,1,Steel Beams,520
+RR014,2,Concrete,140
+RR015,1,Rebar,210
