@@ -1,0 +1,16 @@
+RawRecordID,ProjectID,WorkerID,SupplierName,SupplierCity
+RR001,P001,W001,BuildPro Supplies,Boston
+RR002,P001,W002,BuildPro Supplies,Boston
+RR003,P001,W003,SteelWorks Inc,Chicago
+RR004,P002,W001,Oceanic Materials,Miami
+RR005,P002,W004,Oceanic Materials,Miami
+RR006,P003,W002,BuildPro Supplies,Boston
+RR007,P003,W004,BuildPro Supplies,Boston
+RR008,P004,W001,SteelWorks Inc,Chicago
+RR009,P004,W005,Global Glass Co,Seattle
+RR010,P005,W003,Pacific Materials,San Diego
+RR011,P005,W002,Pacific Materials,San Diego
+RR012,P006,W004,Southern Concrete,Atlanta
+RR013,P006,W001,Southern Concrete,Atlanta
+RR014,P007,W005,SteelWorks Inc,Chicago
+RR015,P007,W003,Oceanic Materials,Miami
